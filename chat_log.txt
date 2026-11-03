@@ -1,0 +1,25 @@
+ [2026-11-01 11:10:12] Server listening on 0.0.0.0:5000
+[2026-11-01 11:11:23] Server listening on 0.0.0.0:5000
+[2026-11-01 11:11:43] Sam joined from ('127.0.0.1', 55402)
+[2026-11-01 11:12:21] Sam disconnected
+[2026-11-02 07:41:51] Server listening on 0.0.0.0:5000
+[2026-11-02 07:42:57] Sam joined from ('127.0.0.1', 56685)
+[2026-11-02 07:43:37] Om joined from ('127.0.0.1', 57479)
+[2026-11-02 07:45:29] Sam: /hi everyone sam
+[2026-11-02 07:45:37] Om: hi sam
+[2026-11-02 07:45:55] Sam: how ayre you
+[2026-11-02 07:46:23] Sam: okayy
+[2026-11-02 07:46:54] Sam disconnected
+[2026-11-02 07:46:59] Om disconnected
+[2026-11-02 07:49:52] Server listening on 0.0.0.0:5000
+[2026-11-02 07:50:40] Sam joined from ('127.0.0.1', 62646)
+[2026-11-02 07:50:52] Om joined from ('127.0.0.1', 65386)
+[2026-11-02 07:51:10] Sam: Hi Om
+[2026-11-02 07:51:17] Om: hi there
+[2026-11-02 07:51:38] Om disconnected
+[2026-11-02 07:51:41] Sam disconnected
+[2026-11-02 10:34:30] Server listening on 0.0.0.0:5000
+[2026-11-02 10:38:33] Sam joined from ('127.0.0.1', 53525)
+[2026-11-02 10:38:38] Om joined from ('127.0.0.1', 64811)
+[2026-11-02 11:47:27] Om disconnected
+[2026-11-02 11:47:28] Sam disconnected
